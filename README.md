@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @monty-01
+- 🌱 currently learning besics of programming
+- 💞️ looking for squad for making programming fun
