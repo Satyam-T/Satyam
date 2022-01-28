@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @monty-01
+- 👋 Hi, I’m @Satyam Thakur
 - 🌱 currently learning besics of programming
 - 💞️ looking for squad for making programming fun
